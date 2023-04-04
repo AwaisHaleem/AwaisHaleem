@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AwaisHaleem
 - 👀 I’m interested in learning key skills to solve real world problems.
-- 🌱 I’m currently learning flutter mobile app development.
+- 🌱 I’m currently doing flutter mobile app development.
 - 💞️ I’m looking to collaborate on flutter projects.
 - 📫 awaishaleem20@gmail.com
 
